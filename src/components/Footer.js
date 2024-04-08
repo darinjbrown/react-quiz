@@ -1,4 +1,4 @@
-import Timer from './Timer';
+import Timer from './utility/Timer';
 import NextButton from './NextButton';
 
 function Footer({ children }) {
