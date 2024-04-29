@@ -1,0 +1,8 @@
+import Timer from './utility/Timer';
+import NextButton from './NextButton';
+
+function Footer({ children }) {
+	return <footer>{children}</footer>;
+}
+
+export default Footer;
